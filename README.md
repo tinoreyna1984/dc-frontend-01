@@ -6,21 +6,19 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://dc-frontend-01.vercel.app/" target="_blank">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/tinoreyna1984/dc-frontend-01">
+    <a href="https://github.com/tinoreyna1984/dc-frontend-01" target="_blank">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/ohgVTyJCbm5OZyTB2gNY">
+    <a href="https://devchallenges.io/challenges/ohgVTyJCbm5OZyTB2gNY" target="_blank">
       Challenge
     </a>
   </h3>
 </div>
-
-<!-- TABLE OF CONTENTS -->
 
 ## Table of Contents
 
@@ -31,36 +29,24 @@
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 
-<!-- OVERVIEW -->
-
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](./public/screenshot.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+Since I have been working with React and Next.js, I wanted to try a bit more of excercising the concepts of a functional class, reusability and a deep understanding of some logic combinations to achieve this challenge. The screenshot shows the as-is aspects of all custom buttons, so you can check out by clicking or hovering on any of these buttons to see that satisfies the design from the Figma file.
 
 ### Built With
 
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
-
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [React](https://reactjs.org/) + [Vite](https://vitejs.dev/)
+- [SASS](https://sass-lang.com/): CSS with superpowers
 
 ## Features
-
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/ohgVTyJCbm5OZyTB2gNY) was to build an application to complete the given user stories.
 
 ## How To Use
-
-<!-- This is an example, please update according to your application -->
 
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
@@ -69,22 +55,21 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 $ git clone https://github.com/tinoreyna1984/dc-frontend-01
 
 # Install dependencies
-$ npm install
+$ npm i
 
 # Run the app
-$ npm start
+$ npm run dev
 ```
 
 ## Acknowledgements
 
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
-
 - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
 - [Node.js](https://nodejs.org/)
 - [Marked - a markdown parser](https://github.com/chjj/marked)
+- My teachers.
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website [TinexLab](https://tinexlab.vercel.app/)
+- GitHub [@tinoreyna1984](https://github.com/tinoreyna1984)
+- Twitter [@tinoreyna1984](https://twitter.com/tinoreyna1984)
