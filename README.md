@@ -1,4 +1,4 @@
-<h1 align="center">Tino's reusable bottom with Vite + React</h1>
+<h1 align="center">Tino's reusable button with Vite + React</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
