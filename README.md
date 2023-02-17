@@ -1,24 +1,10 @@
-<h1 align="center">Tino's reusable button with Vite + React</h1>
+# Tino's reusable button with Vite + React
 
-<div align="center">
-   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
-</div>
+Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
 
-<div align="center">
-  <h3>
-    <a href="https://dc-frontend-01.vercel.app/" target="_blank">
-      Demo
-    </a>
-    <span> | </span>
-    <a href="https://github.com/tinoreyna1984/dc-frontend-01" target="_blank">
-      Solution
-    </a>
-    <span> | </span>
-    <a href="https://devchallenges.io/challenges/ohgVTyJCbm5OZyTB2gNY" target="_blank">
-      Challenge
-    </a>
-  </h3>
-</div>
+[Demo](https://dc-frontend-01.vercel.app/) | 
+[Solution](https://github.com/tinoreyna1984/dc-frontend-01) | 
+[Challenge](https://devchallenges.io/challenges/ohgVTyJCbm5OZyTB2gNY)
 
 ## Table of Contents
 
