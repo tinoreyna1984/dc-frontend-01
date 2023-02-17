@@ -19,8 +19,6 @@ Solution for a challenge from  <a href="http://devchallenges.io" target="_blank"
 
 ![screenshot](./public/screenshot.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
 Since I have been working with React and Next.js, I wanted to try a bit more of excercising the concepts of a functional class, reusability and a deep understanding of some logic combinations to achieve this challenge. The screenshot shows the as-is aspects of all custom buttons, so you can check out by clicking or hovering on any of these buttons to see that satisfies the design from the Figma file.
 
 ### Built With
